@@ -1,5 +1,6 @@
-# 140440 Industrial Robotics, notes
-Notes about the Industrial Robotic course of the master degree in Autonous System (EIT). 
+# Industrial Robotics [140440]
+## Notes
+Notes about the Industrial Robotic course of the master degree in Autonous System (EIT), University of Trento. 
 Course professor: Daniele Bortoluzzi.
 
 The course aim was to study the kinematic, the dynamic and (partially) the control of open chain mechanism. 
